@@ -14,12 +14,12 @@ setuptools.setup(
     long_description_content_type="text/markdown",  # README.md is of type 'markdown'
     author='Jonathan Vlk',
     author_email='jvlk@westmonroe.com',
-    url='https://wmp.visualstudio.com/WMMLFramework/_git/WMMLTemplates', 
+    url='https://github.com/jgvlk/toolbox_project', 
     project_urls = {                                # Optional
-        "Bug Tracker": "https://github.com/mike-huls/toolbox_public/issues"
+        "Bug Tracker": "https://github.com/jgvlk/toolbox_project/issues"
     },
     install_requires=['requests'],                  # list all packages that your package uses
-    keywords=["pypi", "mikes_toolbox", "tutorial"], #descriptive meta-data
+    keywords=["pypi", "jv_toolbox", "tutorial"], #descriptive meta-data
     classifiers=[                                   # https://pypi.org/classifiers
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
